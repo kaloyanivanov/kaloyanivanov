@@ -1,7 +1,7 @@
 ## Kaloyan Ivanov 
 
 <p>
-  I'm Kaloyan Ivanov, a Software Engineer with a background as Java developer and a BEng from the Technical University of Sofia. I'm currently expanding my academic background with an Economics PhD at the University of Insurance and Finance, Sofia.
+  I'm Kaloyan Ivanov, a software engineer with a background as Java developer and a BEng from the Technical University of Sofia. I'm currently expanding my academic background with an Economics PhD at the University of Insurance and Finance, Sofia.
 </p> 
 
 - 🔭 I'm currently working on an automated schedule generator for professional education training plans.
